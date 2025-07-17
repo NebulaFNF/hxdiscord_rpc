@@ -1,3 +1,3 @@
 [submodule "project/rapidjson"]
-  path = project/rapidjson
-  url = https://github.com/NebulaFNF/rapidjson.git
+    path = project/rapidjson
+    url = https://github.com/NebulaFNF/rapidjson.git
